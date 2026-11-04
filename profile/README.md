@@ -1,8 +1,6 @@
 # Tacit
 
-A desktop for laptops: an operating system on Arch Linux with its own desktop, apps and design language. Dark only.
-Everything works offline and on 4 GB of memory; AI is optional and works with the agent you already use.
-
+A desktop for laptops: an operating system on Arch Linux with its own desktop, apps and design language
 [Install](https://tacitos.co/install) · [Website](https://tacitos.co) · [Design guide](https://design.tacitos.co) · [Discord](https://discord.gg/Geg72FUhY)
 
 ## What is here
